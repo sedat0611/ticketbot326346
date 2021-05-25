@@ -1,0 +1,18 @@
+{
+  "name": "ticket-system",
+  "version": "1.0.0",
+  "description": "priv",
+  "main": "ticket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Flight"
+  ],
+  "author": "CyberCoder",
+  "license": "MIT",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^12.5.3"
+  }
+}
